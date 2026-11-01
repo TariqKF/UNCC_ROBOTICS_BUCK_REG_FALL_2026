@@ -467,7 +467,7 @@
       "pin_not_connected": "error",
       "pin_not_driven": "error",
       "pin_to_pin": "warning",
-      "power_pin_not_driven": "error",
+      "power_pin_not_driven": "warning",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
       "similar_labels": "warning",
@@ -661,13 +661,17 @@
         "uuid": "1a75d858-fbd4-4c6d-85d6-f31313a4ca44"
       }
     ],
-    "used_designators": "R17-18,D3-4,#PWR14-15,C34,Q5-6,U2",
+    "used_designators": "J1-2,R1-18,D1-4,#PWR1-30,C1-34,Q1-6,U1-2,F1,L1",
     "variants": []
   },
   "sheets": [
     [
       "1a75d858-fbd4-4c6d-85d6-f31313a4ca44",
       "Buck-Booster-Convertor"
+    ],
+    [
+      "ad5b4d14-aed5-4d56-9ecb-80bc3f08ad37",
+      "Buck_Converter"
     ]
   ],
   "text_variables": {},
