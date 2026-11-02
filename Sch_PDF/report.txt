@@ -1,0 +1,3 @@
+Plotted to 'C:\Users\gamin\OneDrive\Documents\KiCad\10.0\projects\Buck-Booster-Convertor\Sch_PDF\Buck-Booster-Convertor.pdf'.
+
+Info: Done.
