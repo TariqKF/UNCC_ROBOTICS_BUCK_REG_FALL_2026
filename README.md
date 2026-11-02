@@ -40,13 +40,13 @@ You are free to use, modify, build, share, and sell this design, including comme
 If you use, modify, or share this design (or anything derived from it), you must:
 
 1. **Credit the author:** Tariq Khalaf
-2. **Link to the original:** https://github.com/TariqKF/Buck-Convertor-RB_Club
+2. **Link to the original:** https://github.com/TariqKF/UNCC_ROBOTICS_BUCK_REG_FALL_2026
 3. **Link to the license:** https://creativecommons.org/licenses/by/4.0/
 4. **Say if you made changes**
 
 Example attribution:
 
-> Based on "Synchronous Buck Converter" by Tariq Khalaf (https://github.com/TariqKF/Buck-Convertor-RB_Club), licensed under CC BY 4.0. Modified by [your name].
+> Based on "Synchronous Buck Converter" by Tariq Khalaf (https://github.com/TariqKF/UNCC_ROBOTICS_BUCK_REG_FALL_2026), licensed under CC BY 4.0. Modified by [your name].
 
 For physical boards, put the credit in your documentation, README, or product listing.
 

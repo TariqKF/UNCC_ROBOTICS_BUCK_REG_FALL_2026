@@ -5,7 +5,7 @@ type: software
 authors:
   - given-names: Tariq
     family-names: Khalaf
-repository-code: "https://github.com/TariqKF/Buck-Convertor-RB_Club"
+repository-code: "https://github.com/TariqKF/UNCC_ROBOTICS_BUCK_REG_FALL_2026"
 license: CC-BY-4.0
 keywords:
   - kicad
