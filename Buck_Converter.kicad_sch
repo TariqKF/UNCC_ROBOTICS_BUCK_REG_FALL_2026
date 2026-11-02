@@ -2,7 +2,7 @@
 	(version 20260306)
 	(generator "eeschema")
 	(generator_version "10.0")
-	(uuid "8e54aae8-ff0c-46a5-b695-badea704ac89")
+	(uuid "b90b73b0-a930-4b4c-a817-1a2578e6fe65")
 	(paper "A4")
 	(title_block
 		(title "Synchronous_Buck_Converter")
