@@ -1,0 +1,7 @@
+#VRML V2.0 utf8
+# Simplified Keystone 3560 fuse holder (datasheet outline 24.6x16.5x27.1mm), not manufacturer model
+Transform { translation 1.8110 -0.0000 5.1969 children Shape { appearance Appearance { material Material { diffuseColor 0.08 0.08 0.08 specularColor 0.2 0.2 0.2 shininess 0.3 } } geometry Box { size 9.6850 6.4961 10.1575 } } }
+Transform { translation 1.8110 -0.0000 10.4724 children Shape { appearance Appearance { material Material { diffuseColor 0.08 0.08 0.08 specularColor 0.2 0.2 0.2 shininess 0.3 } } geometry Box { size 8.8976 5.7087 0.3937 } } }
+Transform { translation 1.8110 -0.0000 10.6102 children Shape { appearance Appearance { material Material { diffuseColor 0.75 0.12 0.10 specularColor 0.2 0.2 0.2 shininess 0.3 } } geometry Box { size 7.5197 2.0472 0.5906 } } }
+Transform { translation 0.0000 -0.0000 -0.6299 children Shape { appearance Appearance { material Material { diffuseColor 0.75 0.75 0.72 specularColor 0.2 0.2 0.2 shininess 0.3 } } geometry Box { size 0.5906 0.7480 1.4961 } } }
+Transform { translation 3.6220 -0.0000 -0.6299 children Shape { appearance Appearance { material Material { diffuseColor 0.75 0.75 0.72 specularColor 0.2 0.2 0.2 shininess 0.3 } } geometry Box { size 0.5906 0.7480 1.4961 } } }

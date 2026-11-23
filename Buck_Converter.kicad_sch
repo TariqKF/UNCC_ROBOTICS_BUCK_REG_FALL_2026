@@ -6534,7 +6534,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Buck_Converter:CSD18512Q5B_VSONP-8-1EP_5x6_P1.27mm_1D-2G-3S"
 			(at 276.86 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -7459,7 +7459,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:CP_Elec_8x10.5"
 			(at 270.2052 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -8239,7 +8239,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_Vishay_IHLP-6767"
 			(at 88.9 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -8957,7 +8957,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Buck_Converter:AMASS_XT90PW-M_1x02_P10.90mm_Horizontal"
 			(at 186.69 29.21 0)
 			(hide yes)
 			(show_name no)
@@ -9039,7 +9039,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:CP_Elec_10x12.6"
 			(at 260.0452 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -9617,7 +9617,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Buck_Converter:CSD18512Q5B_VSONP-8-1EP_5x6_P1.27mm_1D-2G-3S"
 			(at 44.45 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -9735,7 +9735,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:CP_Elec_10x12.6"
 			(at 272.7452 149.86 0)
 			(hide yes)
 			(show_name no)
@@ -10149,7 +10149,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Buck_Converter:CSD18512Q5B_VSONP-8-1EP_5x6_P1.27mm_1D-2G-3S"
 			(at 86.36 175.26 0)
 			(hide yes)
 			(show_name no)
@@ -10667,7 +10667,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Buck_Converter:Fuseholder_Blade_ATO_Keystone_3560"
 			(at 201.93 57.658 90)
 			(hide yes)
 			(show_name no)
@@ -12034,7 +12034,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Buck_Converter:AMASS_XT90PW-M_1x02_P10.90mm_Horizontal"
 			(at 185.42 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -12359,7 +12359,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:CP_Elec_8x10.5"
 			(at 260.0452 125.73 0)
 			(hide yes)
 			(show_name no)
@@ -12761,7 +12761,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Buck_Converter:CSD18512Q5B_VSONP-8-1EP_5x6_P1.27mm_1D-2G-3S"
 			(at 236.22 77.47 0)
 			(hide yes)
 			(show_name no)
@@ -13603,7 +13603,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Buck_Converter:CSD18512Q5B_VSONP-8-1EP_5x6_P1.27mm_1D-2G-3S"
 			(at 86.36 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -13721,7 +13721,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Buck_Converter:CSD18512Q5B_VSONP-8-1EP_5x6_P1.27mm_1D-2G-3S"
 			(at 44.45 175.26 0)
 			(hide yes)
 			(show_name no)
